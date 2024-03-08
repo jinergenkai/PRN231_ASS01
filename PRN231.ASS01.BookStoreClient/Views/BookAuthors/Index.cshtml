@@ -1,0 +1,53 @@
+﻿@model IEnumerable<BookAuthor>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" asp-route-id="@ViewData["BookId"]">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AuthorOrder)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RoyalityPercentage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorOrder)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoyalityPercentage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author.AuthorId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Book.BookId)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { bookId = item.BookId, authorId = item.AuthorId}) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { bookId = item.BookId, authorId = item.AuthorId})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

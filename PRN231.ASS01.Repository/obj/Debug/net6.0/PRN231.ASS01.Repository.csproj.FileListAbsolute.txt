@@ -1,0 +1,14 @@
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.Repository\bin\Debug\net6.0\PRN231.ASS01.Repository.deps.json
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.Repository\bin\Debug\net6.0\PRN231.ASS01.Repository.runtimeconfig.json
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.Repository\bin\Debug\net6.0\PRN231.ASS01.Repository.dll
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.Repository\bin\Debug\net6.0\PRN231.ASS01.Repository.pdb
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.Repository\obj\Debug\net6.0\PRN231.ASS01.Repository.csproj.AssemblyReference.cache
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.Repository\obj\Debug\net6.0\PRN231.ASS01.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.Repository\obj\Debug\net6.0\PRN231.ASS01.Repository.AssemblyInfoInputs.cache
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.Repository\obj\Debug\net6.0\PRN231.ASS01.Repository.AssemblyInfo.cs
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.Repository\obj\Debug\net6.0\PRN231.ASS01.Repository.csproj.CoreCompileInputs.cache
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.Repository\obj\Debug\net6.0\PRN231.ASS01.Repository.dll
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.Repository\obj\Debug\net6.0\refint\PRN231.ASS01.Repository.dll
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.Repository\obj\Debug\net6.0\PRN231.ASS01.Repository.pdb
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.Repository\obj\Debug\net6.0\PRN231.ASS01.Repository.genruntimeconfig.cache
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.Repository\obj\Debug\net6.0\ref\PRN231.ASS01.Repository.dll

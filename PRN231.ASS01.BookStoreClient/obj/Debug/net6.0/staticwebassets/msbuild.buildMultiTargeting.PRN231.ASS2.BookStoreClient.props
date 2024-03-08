@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PRN231.ASS2.BookStoreClient.props" />
+</Project>

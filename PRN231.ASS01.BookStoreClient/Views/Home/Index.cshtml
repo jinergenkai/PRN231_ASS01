@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div >
+    <h1 class="display-4">Login</h1>
+    <form asp-action="Login" class="w-25">
+        <label for="email" class="form-label">Email</label>
+        <input type="text" name="email" class="form-control" />
+        <label for="password" class="form-label">Password</label>
+        <input type="password" name="password" class="form-control" />
+        <input type="submit" value="Login" class="btn btn-primary form-control" />
+        <span class="text-danger">@ViewData["LoginError"]</span>
+    </form>
+</div>

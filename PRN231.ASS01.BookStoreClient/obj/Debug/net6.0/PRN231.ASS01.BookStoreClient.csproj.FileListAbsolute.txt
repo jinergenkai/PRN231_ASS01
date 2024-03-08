@@ -1,0 +1,9 @@
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.BookStoreClient\obj\Debug\net6.0\PRN231.ASS01.BookStoreClient.csproj.AssemblyReference.cache
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.BookStoreClient\obj\Debug\net6.0\PRN231.ASS01.BookStoreClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.BookStoreClient\obj\Debug\net6.0\PRN231.ASS01.BookStoreClient.AssemblyInfoInputs.cache
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.BookStoreClient\obj\Debug\net6.0\PRN231.ASS01.BookStoreClient.AssemblyInfo.cs
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.BookStoreClient\obj\Debug\net6.0\PRN231.ASS01.BookStoreClient.csproj.CoreCompileInputs.cache
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.BookStoreClient\obj\Debug\net6.0\PRN231.ASS01.BookStoreClient.MvcApplicationPartsAssemblyInfo.cs
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.BookStoreClient\obj\Debug\net6.0\PRN231.ASS01.BookStoreClient.MvcApplicationPartsAssemblyInfo.cache
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.BookStoreClient\obj\Debug\net6.0\PRN231.ASS01.BookStoreClient.RazorAssemblyInfo.cache
+D:\project\PRN231\code\Assignment2HungMTSE160033\PRN231.ASS2.BookStoreClient\obj\Debug\net6.0\PRN231.ASS01.BookStoreClient.RazorAssemblyInfo.cs
